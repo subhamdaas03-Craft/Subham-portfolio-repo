@@ -70,7 +70,7 @@ I am Subham Das an MBA (Marketing) student with hands-on experience in social me
 - Creative Strategy  
 
 ---
-My Work & Results
+## My Work & Results – Instagram Reels
 
 🔗 [Watch My Reel 1](https://www.instagram.com/reel/DWV37QzEfQq/?igsh=aDAwaGR2b2lzZmh3)
 
@@ -91,6 +91,11 @@ My Work & Results
 🔗 [Watch My Reel 9](https://www.instagram.com/reel/DHlZwfmPxGq/?igsh=MWd3ZmZwbmxjYzQ2Mg==)
 
 🔗 [Watch My Reel 10](https://www.instagram.com/reel/DJCBa23PTnO/?igsh=MWtvZDdzcGw0bmo1OQ==)
+
+---
+ ## Graphic Design Posters
+ 
+
 
 ## 📌 Conclusion
 This experience demonstrates my ability to combine creativity with analytics to build and scale social media presence effectively. I aim to leverage these skills in digital marketing roles to drive impactful brand growth.
