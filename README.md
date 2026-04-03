@@ -70,6 +70,27 @@ I am Subham Das an MBA (Marketing) student with hands-on experience in social me
 - Creative Strategy  
 
 ---
+My Work & Results
+
+🔗 [Watch My Reel 1](https://www.instagram.com/reel/DWV37QzEfQq/?igsh=aDAwaGR2b2lzZmh3)
+
+🔗 [Watch My Reel 2](https://www.instagram.com/reel/DWRnSZWAH5y/?igsh=cW0wZDRkYml4Z3px)
+
+🔗 [Watch My Reel 3](https://www.instagram.com/reel/DWO3ml_gFU7/?igsh=MXRrd3hlMGd4Nmpleg==)
+
+🔗 [Watch My Reel 4](https://www.instagram.com/reel/DV9DEO9DxHv/?igsh=b3I4dm41a2g2MzR2)
+
+🔗 [Watch My Reel 5](https://www.instagram.com/reel/DQeRY2tj6hQ/?igsh=MTRhNjg3ZGpoajVtaw==)
+
+🔗 [Watch My Reel 6](https://www.instagram.com/reel/DOogrUBEjEe/?igsh=MXE4ejV6enk2dTVkdw==)
+
+🔗 [Watch My Reel 7](https://www.instagram.com/reel/DQcQ1fJEmTr/?igsh=dmU3MGZkdjR1dzgx)
+
+🔗 [Watch My Reel 8](https://www.instagram.com/reel/DHtCNkgTKA9/?igsh=NXA1YTk4OXU3NTY0)
+
+🔗 [Watch My Reel 9](https://www.instagram.com/reel/DHlZwfmPxGq/?igsh=MWd3ZmZwbmxjYzQ2Mg==)
+
+🔗 [Watch My Reel 10](https://www.instagram.com/reel/DJCBa23PTnO/?igsh=MWtvZDdzcGw0bmo1OQ==)
 
 ## 📌 Conclusion
 This experience demonstrates my ability to combine creativity with analytics to build and scale social media presence effectively. I aim to leverage these skills in digital marketing roles to drive impactful brand growth.
