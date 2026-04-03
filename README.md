@@ -1,4 +1,4 @@
-# 📱 Social Media Management Portfolio
+#Social Media Management Portfolio
 
 ## 👤 About Me
 I am Subham Das an MBA (Marketing) student with hands-on experience in social media management, content creation, and digital branding. I specialize in growing online presence, creating engaging content, and leveraging data-driven strategies to improve audience engagement.
