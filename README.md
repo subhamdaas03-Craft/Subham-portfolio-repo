@@ -96,6 +96,7 @@ I am Subham Das an MBA (Marketing) student with hands-on experience in social me
 
 ---
  ## Graphic Design Posters
+ 
  ![Poster](assets/poster1.jpeg)
 ![Poster](assets/poster2.jpeg)
 ![Poster](assets/3.jpg)
@@ -106,7 +107,7 @@ I am Subham Das an MBA (Marketing) student with hands-on experience in social me
 ![Poster](assets/haldiram's%20poster%20ganesh%20puja.jpg)
 ![Poster](assets/poster4.jpg)
  
-
+---
 
 ## 📌 Conclusion
 This experience demonstrates my ability to combine creativity with analytics to build and scale social media presence effectively. I aim to leverage these skills in digital marketing roles to drive impactful brand growth.
