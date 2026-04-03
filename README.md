@@ -14,6 +14,7 @@ I am Subham Das an MBA (Marketing) student with hands-on experience in social me
 - 📈 Scaled Instagram followers from **150 to 757+**
 - 👀 Generated **24K+ views** through strategic content execution
 - 📊 Improved audience engagement using data-driven strategies
+  -
  ![Logo](assets/WhatsApp%20Image%202026-04-03%20at%208.46.46%20PM%20(1).jpeg)
 ![Logo](assets/WhatsApp%20Image%202026-04-03%20at%208.46.46%20PM%20(2).jpeg)
 ![Logo](assets/WhatsApp%20Image%202026-04-03%20at%208.46.46%20PM.jpeg)
@@ -97,6 +98,7 @@ I am Subham Das an MBA (Marketing) student with hands-on experience in social me
 ---
  ## Graphic Design Posters
  
+ 
  ![Poster](assets/poster1.jpeg)
 ![Poster](assets/poster2.jpeg)
 ![Poster](assets/3.jpg)
@@ -109,9 +111,9 @@ I am Subham Das an MBA (Marketing) student with hands-on experience in social me
  
 ---
 
-## 📌 Conclusion
+##  Conclusion
 This experience demonstrates my ability to combine creativity with analytics to build and scale social media presence effectively. I aim to leverage these skills in digital marketing roles to drive impactful brand growth.
 
 ---
 
-⭐ *Feel free to explore my work and connect with me!*
+ *Feel free to explore my work and connect with me!*
