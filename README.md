@@ -11,11 +11,10 @@ I am Subham Das an MBA (Marketing) student with hands-on experience in social me
 ---
 
 ## 🚀 Key Achievements
-- 📈 Scaled Instagram followers from **150 to 757+**
-- 👀 Generated **24K+ views** through strategic content execution
-- 📊 Improved audience engagement using data-driven strategies
-  -
- ![Logo](assets/WhatsApp%20Image%202026-04-03%20at%208.46.46%20PM%20(1).jpeg)
+- Scaled Instagram followers from **150 to 757+**
+-  Generated **24K+ views** through strategic content execution
+- Improved audience engagement using data-driven strategies
+![Logo](assets/WhatsApp%20Image%202026-04-03%20at%208.46.46%20PM%20(1).jpeg)
 ![Logo](assets/WhatsApp%20Image%202026-04-03%20at%208.46.46%20PM%20(2).jpeg)
 ![Logo](assets/WhatsApp%20Image%202026-04-03%20at%208.46.46%20PM.jpeg)
 ---
