@@ -96,7 +96,15 @@ I am Subham Das an MBA (Marketing) student with hands-on experience in social me
 
 ---
  ## Graphic Design Posters
- 
+ ![Poster](assets/poster1.jpeg)
+![Poster](assets/poster2.jpeg)
+![Poster](assets/3.jpg)
+![Poster](assets/6.jpg)
+![Poster](assets/Final%20image%202026%20fgjs.jpg)
+![Poster](assets/poster3.jpg)
+![Poster](assets/Astitva%20Jpg%20final%20image.jpg)
+![Poster](assets/haldiram's%20poster%20ganesh%20puja.jpg)
+![Poster](assets/poster4.jpg)
  
 
 
