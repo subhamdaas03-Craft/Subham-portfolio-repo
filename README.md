@@ -1,16 +1,16 @@
 #  Social Media Management Portfolio
 
-## 👤 About Me
+##  About Me
 I am Subham Das an MBA (Marketing) student with hands-on experience in social media management, content creation, and digital branding. I specialize in growing online presence, creating engaging content, and leveraging data-driven strategies to improve audience engagement.
 
 ---
 
-## 💼 Role: Social Media Manager  
+##  Role: Social Media Manager  
 **Organization:** Apexara – KU School of Business  
 
 ---
 
-## 🚀 Key Achievements
+##  Key Achievements
 - Scaled Instagram followers from **150 to 757+**
 -  Generated **24K+ views** through strategic content execution
 - Improved audience engagement using data-driven strategies
@@ -19,19 +19,19 @@ I am Subham Das an MBA (Marketing) student with hands-on experience in social me
 ![Logo](assets/WhatsApp%20Image%202026-04-03%20at%208.46.46%20PM.jpeg)
 ---
 
-## 📌 Responsibilities & Contributions
+##  Responsibilities & Contributions
 
-### 📊 Content Strategy & Planning
+###  Content Strategy & Planning
 - Developed and implemented **data-driven content strategies**
 - Planned content across **reels, posts, and stories**
 - Aligned content with **audience preferences and trending topics**
 
-### 🎨 Content Creation
+###  Content Creation
 - Designed high-quality creatives using **Canva**
 - Produced engaging short-form videos using **CapCut** and **VN**
 - Maintained consistency in **brand identity and storytelling**
 
-### 🎥 End-to-End Content Production
+###  End-to-End Content Production
 - Led complete content workflow:
   - Planning
   - Shooting
@@ -39,22 +39,22 @@ I am Subham Das an MBA (Marketing) student with hands-on experience in social me
   - Publishing
 - Created original and engaging content regularly
 
-### 🤝 Collaboration & Growth
+###  Collaboration & Growth
 - Collaborated with **influencers and campus creators**
 - Expanded reach and improved **organic engagement**
 
-### 📅 Content Management
+###  Content Management
 - Maintained structured **content calendars**
 - Ensured timely and consistent posting
 
-### 📈 Analytics & Optimization
+###  Analytics & Optimization
 - Monitored performance using analytics tools
 - Continuously optimized strategies based on insights
 - Improved engagement metrics through data-driven decisions
 
 ---
 
-## 🛠️ Tools & Skills
+##  Tools & Skills
 - **Design:** Canva  
 - **Video Editing:** CapCut, VN  
 - **Content Strategy:** Trend Analysis, Audience Targeting  
@@ -63,7 +63,7 @@ I am Subham Das an MBA (Marketing) student with hands-on experience in social me
 
 ---
 
-## 📊 Core Skills
+##  Core Skills
 - Social Media Management  
 - Content Creation & Storytelling  
 - Influencer Collaboration  
@@ -95,10 +95,10 @@ I am Subham Das an MBA (Marketing) student with hands-on experience in social me
 🔗 [Watch My Reel 10](https://www.instagram.com/reel/DJCBa23PTnO/?igsh=MWtvZDdzcGw0bmo1OQ==)
 
 ---
- ## Graphic Design Posters
+## Graphic Design Posters
  
  
- ![Poster](assets/poster1.jpeg)
+  ![Poster](assets/poster1.jpeg)
 ![Poster](assets/poster2.jpeg)
 ![Poster](assets/3.jpg)
 ![Poster](assets/6.jpg)
